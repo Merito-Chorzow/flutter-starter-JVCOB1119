@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "title": "Pierwszy wpis",
+      "date": "2026-01-18",
+      "description": "Testowy wpis",
+      "lat": 50.2649,
+      "lng": 19.0238
+    },
+    {
+      "id": "cec7",
+      "title": "aas",
+      "description": "asdasd",
+      "date": "2026-01-18T18:16:59.794642"
+    },
+    {
+      "id": "5316",
+      "title": "asdas",
+      "description": "dasdas",
+      "date": "2026-01-18T18:19:52.503308"
+    },
+    {
+      "id": "3096",
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "date": "2026-01-18T18:37:58.493560",
+      "lat": 37.4219983,
+      "lng": -122.084
+    },
+    {
+      "id": "8edf",
+      "title": "asdas",
+      "description": "sadasd",
+      "date": "2026-01-18T18:42:36.939845",
+      "lat": 37.4219983,
+      "lng": -122.084
+    },
+    {
+      "id": "e49c",
+      "title": "sdfsdf",
+      "description": "dfsdf",
+      "date": "2026-01-18T18:45:48.909676",
+      "lat": 37.4219983,
+      "lng": -122.084
+    }
+  ]
+}
